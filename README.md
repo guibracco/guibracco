@@ -1,4 +1,4 @@
 👋 Hi, I’m @guibracco  
 🎓 I'm a Data Analyst student at Hyper Island - Stockholm  
-💼 Currently doing my internship at Epidemic Sound  
+💼 Currently working as a Data Scientist intern at Epidemic Sound  
 📫 Reach me on https://linkedin.com/in/guibracco
