@@ -1,4 +1,4 @@
 👋 Hi, I’m @guibracco.  
-💼 Data Scientist at [Epidemic Sound](https://github.com/epidemicsound).  
-🎓 Data Analyst graduate at [Hyper Island](https://github.com/hyperisland) - Stockholm.  
+💼 Data Scientist at [Epidemic Sound](https://epidemicsound.com).  
+🎓 Data Analyst graduate at [Hyper Island](https://hyperisland.com) - Stockholm.  
 📫 Reach me on [LinkedIn](https://linkedin.com/in/guibracco).
